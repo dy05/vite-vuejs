@@ -1,0 +1,19 @@
+{
+  "name": "vite-vuejs",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "curtainsjs": "^8.1.2",
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "axios": "^0.21.1",
+    "vite": "^2.3.4"
+  }
+}
